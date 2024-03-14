@@ -1,9 +1,4 @@
 /**
- * A module providing a function to safely convert a value to a integer.
- * @module
- */
-
-/**
  * Function to safely convert a value to a integer.
  * @example
  * ```ts

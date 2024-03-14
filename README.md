@@ -1,6 +1,6 @@
 # @cr/get-int
 
-This module provides a function, `getInt`, that safely converts a value to an integer. If the conversion is not possible, it returns `undefined`.
+Strictly parse an integer or integer string. If not parsed, returns undefined.
 
 ## Usage
 
